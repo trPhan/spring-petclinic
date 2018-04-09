@@ -6,7 +6,7 @@
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
   <version>2.0.0.BUILD-SNAPSHOT</version>
-<!-- Added by trPhan (start)-->
+
   @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
 
@@ -20,7 +20,7 @@ public class Application extends SpringBootServletInitializer {
 	}
 
 }
-<!-- Added by trPhan (end)-->    
+   
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
